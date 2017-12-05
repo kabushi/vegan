@@ -12,7 +12,7 @@
     },
      "autoload": {
         "psr-4": {
-            "Kabushi\\Vegan\\": "src/"
+            "Spipu\\Html2Pdf\\": "src/"
         }
     }
 }
