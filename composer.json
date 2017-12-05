@@ -2,7 +2,8 @@
   "name": "kabushi/vegan",
   "description": "Empty Repository for example",
     "require": {
-        "php": "^5.4 || ^7.0"
+        "php": "^5.4 || ^7.0",
+        "tecnickcom/tcpdf": "^6.2"
     },
      "autoload": {
         "psr-4": {
